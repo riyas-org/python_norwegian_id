@@ -14,5 +14,6 @@ USAGE
 wget https://raw.githubusercontent.com/riyas-org/python_norwegian_id/master/nid.py 
 
 import nid
+
 nid.isValidNationalIdNumber('0123456789')
 
