@@ -1,8 +1,7 @@
 '''
 #Norsk id check
 #ported to python on 15.06.2017 from nettskjema
-#By Riyas Vettukattil
-#for PreventADALL
+#By Riyas 
 '''
 
 import datetime
